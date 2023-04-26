@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Second-Month-Lessons-HW-Android.iml" filepath="$PROJECT_DIR$/.idea/Second-Month-Lessons-HW-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_hw1-master/nurgazy_hw1-master.iml" filepath="$PROJECT_DIR$/nurgazy_hw1-master/nurgazy_hw1-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_hw2-master/nurgazy_hw2-master.iml" filepath="$PROJECT_DIR$/nurgazy_hw2-master/nurgazy_hw2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_hw3-master/nurgazy_hw3-master.iml" filepath="$PROJECT_DIR$/nurgazy_hw3-master/nurgazy_hw3-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_hw4-master/nurgazy_hw4-master.iml" filepath="$PROJECT_DIR$/nurgazy_hw4-master/nurgazy_hw4-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_lesson_1-master/nurgazy_lesson_1-master.iml" filepath="$PROJECT_DIR$/nurgazy_lesson_1-master/nurgazy_lesson_1-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_lesson_2-master/nurgazy_lesson_2-master.iml" filepath="$PROJECT_DIR$/nurgazy_lesson_2-master/nurgazy_lesson_2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_lesson_3-master/nurgazy_lesson_3-master.iml" filepath="$PROJECT_DIR$/nurgazy_lesson_3-master/nurgazy_lesson_3-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nurgazy_lesson_4-master/nurgazy_lesson_4-master.iml" filepath="$PROJECT_DIR$/nurgazy_lesson_4-master/nurgazy_lesson_4-master.iml" />
+    </modules>
+  </component>
+</project>
